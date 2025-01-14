@@ -1,5 +1,6 @@
 # CourierPro - Professional Courier Service Dashboard
 ![screenshot](https://github.com/user-attachments/assets/755ae5ea-48af-49f3-8aef-699b46dfb4b8)
+![screenshot](https://github.com/user-attachments/assets/b0f36189-10cd-4cca-96e5-c4aae010e77c)
 
 A modern, feature-rich courier service management system built with Next.js 13 and TypeScript.
 
